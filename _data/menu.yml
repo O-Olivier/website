@@ -1,0 +1,8 @@
+entries:
+  - title: Contact
+    url: false
+    entries:
+      - title: olivier dot martinot at inria dot fr
+        url: false
+  - title: My gitlab account
+    url: https://framagit.org/O_Olivier
