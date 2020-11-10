@@ -4,5 +4,12 @@ entries:
     entries:
       - title: olivier dot martinot at inria dot fr
         url: false
-  - title: My gitlab account
-    url: https://framagit.org/O_Olivier
+  - title: My gitlab accounts
+    url: false
+    entries:
+      - title: pro
+        url: https://gitlab.inria.fr/omartino
+      - title: personal
+        url: https://framagit.org/O_Olivier
+  - title: My github account
+    url: https://github.com/olivier-martinot
