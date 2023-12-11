@@ -13,7 +13,9 @@ entries:
         url: https://framagit.org/O_Olivier
   - title: My github account
     url: https://github.com/olivier-martinot
-  - title: Brouillon de mon manuscrit de thèse (en français)
-    url: /static/manuscrit.pdf"
   - title: ML Workshop 2020 - API design for type-inference constraints
     url: https://icfp20.sigplan.org/details/mlfamilyworkshop-2020-papers/2/Quantified-Applicatives-API-design-for-type-inference-constraints
+  - title: ML Workshop 2021 - Frozen inference constraints for type directed disambiguation (with Gabriel Scherer)
+    url: https://icfp21.sigplan.org/details/mlfamilyworkshop-2021-papers/10/Frozen-inference-constraints-for-type-directed-disambiguation
+  - title: Brouillon de mon manuscrit de thèse (en français)
+    url: /static/manuscrit.pdf
