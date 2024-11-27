@@ -19,3 +19,5 @@ entries:
     url: https://icfp21.sigplan.org/details/mlfamilyworkshop-2021-papers/10/Frozen-inference-constraints-for-type-directed-disambiguation
   - title: Mon manuscrit de thèse (en français)
     url: /static/manuscrit.pdf
+  - title: Infos sur ma soutenance de thèse
+    url: /static/soutenance.html
